@@ -31,6 +31,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=singquasar-max&icon=3&color=5)](https://visitcount.itsvg.in)
+
 
 
